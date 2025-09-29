@@ -1,0 +1,742 @@
+---
+format: 
+  html:
+    css: styles.css
+---
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: team-container
+<h1 class="section-title">
+
+Principal Investigator
+
+</h1>
+
+::::::: principal-investigator
+
+::::photo-text-group
+<img src="images/team/libo.jpg" alt="Bo Li" class="pi-photo"/>
+
+::: pi-name
+Bo Li (李波)
+:::
+
+<a href="mailto:libo@westlake.edu.cn" class="pi-email">libo\@westlake.edu.cn</a>
+::::
+
+::::bio-section
+:::pi-bio
+Dr. Bo Li is Chair Professor of Neuroscience at Westlake University. He received his Bachelor’s Degree (Medicine) from Jining Medical College in 1992, Master’s degree (Psychology) from Chinese Academy of Sciences in 1997, and Ph.D. (Neuroscience) from The University of British Columbia in 2003. He did his postdoctoral research from 2003 to 2008, first at Cold Spring Harbor Laboratory (CSHL) and then at University of California, San Diego. He was recruited back to CSHL as an Assistant Professor in 2008, and was promoted to Associate Professor in 2013 and Professor in 2017. He was the Robert Lourie Endowed Professor at CSHL before joining Westlake University in August 2023.
+:::
+::::
+:::::::
+
+
+<h2 class="category-title">
+
+Research Staff
+
+</h2>
+
+<!-- 1 -->
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: team-grid
+:::::: team-member-item
+<img src="images/team/Xionghui.jpg" alt="Hui Xiong" class="member-photo"/>
+
+::: member-name
+Hui Xiong (熊晖)
+:::
+
+::: member-position
+Research Associate Professor
+:::
+
+::: member-email
+xionghui\@westlake.edu.cn
+:::
+::::::
+
+<!-- 2 -->
+
+:::::: team-member-item
+<img src="images/team/wuqiang.jpg" alt="Wuqiang Guan" class="member-photo"/>
+
+::: member-name
+Wuqiang Guan (官武强)
+:::
+
+::: member-position
+Research Associate Professor
+:::
+
+::: member-email
+guanwuqiang\@westlake.edu.cn
+:::
+::::::
+
+<!-- 3 -->
+
+:::::: team-member-item
+<img src="images/team/dixiaotang.jpg" alt="dixiaotang" class="member-photo"/>
+
+::: member-name
+XiaoTang Di (邸晓棠)
+:::
+
+::: member-position
+Research Assistant Professor
+:::
+
+::: member-email
+dixiaotang\@westlake.edu.cn
+:::
+::::::
+
+<!-- 4-->
+
+:::::: team-member-item
+<img src="images/team/hongfeng.jpg" class="member-photo"/>
+
+::: member-name
+Feng Hong (洪丰)
+:::
+
+::: member-position
+Research Assistant Professor
+:::
+
+::: member-email
+hongfeng\@westlake.edu.cn
+:::
+::::::
+
+<!-- 5 -->
+
+<!-- 6 -->
+
+:::::: team-member-item
+<img src="images/team/" class="member-photo"/>
+
+::: member-name
+Jiahao Ye (叶家浩)
+:::
+
+::: member-position
+Research Assistant Professor
+:::
+
+::: member-email
+yejiahao\@westlake.edu.cn
+:::
+::::::
+
+<!-- 7 -->
+
+:::::: team-member-item
+<img src="images/team/zhanglibo.jpg" class="member-photo"/>
+
+::: member-name
+Libo Zhang (张力博)
+:::
+
+::: member-position
+Research Assistant Professor
+:::
+
+::: member-email
+zhanglibo\@westlake.edu.cn
+:::
+::::::
+
+<!-- 8 -->
+
+:::::: team-member-item
+<img src="images/team/Chenkang.jpg" alt="Chenkang" class="member-photo"/>
+
+::: member-name
+Kang Chen (陈康)
+:::
+
+::: member-position
+Postdoctoral Fellow
+:::
+
+::: member-email
+chenkang\@westlake.edu.cn
+:::
+::::::
+
+<!-- 9 -->
+
+:::::: team-member-item
+<img src="images/team/gechaofan.png" alt="Gechaofan" class="member-photo"/>
+
+::: member-name
+Chaofan Ge (葛超凡)
+:::
+
+::: member-position
+Postdoctoral Fellow
+:::
+
+::: member-email
+gechaofan\@westlake.edu.cn
+:::
+::::::
+
+<!-- 10 -->
+
+:::::: team-member-item
+<img src="images/team/huguanglei.jpg" alt="Huguanglei" class="member-photo"/>
+
+::: member-name
+Guanglei Hu (呼广雷)
+:::
+
+::: member-position
+Postdoctoral Fellow
+:::
+
+::: member-email
+huguanglei\@westlake.edu.cn
+:::
+::::::
+
+<!-- 11 -->
+
+:::::: team-member-item
+<img src="images/team/huji.jpg" alt="Huji" class="member-photo"/>
+
+::: member-name
+Ji Hu (胡冀)
+:::
+
+::: member-position
+Postdoctoral Fellow
+:::
+
+::: member-email
+huji\@westlake.edu.cn
+:::
+::::::
+
+<!-- 12 -->
+
+:::::: team-member-item
+<img src="images/team/Lvchenfei.jpg" alt="Chenfei lv" class="member-photo"/>
+
+::: member-name
+Chenfei Lv(吕辰菲)
+:::
+
+::: member-position
+Postdoctoral Fellow
+:::
+
+::: member-email
+lyuchenfei\@westlake.edu.cn
+:::
+::::::
+
+<!-- 13 -->
+
+:::::: team-member-item
+<img src="images/team/lixuan.jpg" alt="Lixuan" class="member-photo"/>
+
+::: member-name
+Xuan Li(李轩)
+:::
+
+::: member-position
+Postdoctoral Fellow
+:::
+
+::: member-email
+lixuan\@westlake.edu.cn
+:::
+::::::
+
+<!-- 13 -->
+
+:::::: team-member-item
+<img src="images/team/lixiang.jpg" alt="Xiang Li" class="member-photo"/>
+
+::: member-name
+Xiang Li(李翔)
+:::
+
+::: member-position
+Postdoctoral Fellow
+:::
+
+::: member-email
+lixiang97\@westlake.edu.cn
+:::
+::::::
+
+<!-- 14 -->
+
+:::::: team-member-item
+<img src="images/team/shaoqiming.jpg" alt="Qiming Shao" class="member-photo"/>
+
+::: member-name
+Qiming Shao(邵齐明)
+:::
+
+::: member-position
+Postdoctoral Fellow
+:::
+
+::: member-email
+shaoqiming\@westlake.edu.cn
+:::
+::::::
+
+<!-- 15 -->
+
+:::::: team-member-item
+<img src="images/team/Xiaxianlin.jpg" alt="Xia xianlin" class="member-photo"/>
+
+::: member-name
+Xianlin Xia(夏显霖)
+:::
+
+::: member-position
+Postdoctoral Fellow
+:::
+
+::: member-email
+xiaxianlin\@westlake.edu.cn
+:::
+::::::
+
+<!-- 16 -->
+
+:::::: team-member-item
+<img src="images/team/zhangdongdong.jpg" alt="Dongdong Zhang" class="member-photo"/>
+
+::: member-name
+Dongdong Zhang(张冬冬)
+:::
+
+::: member-position
+Postdoctoral Fellow
+:::
+
+::: member-email
+zhangdongdong\@westlake.edu.cn
+:::
+::::::
+
+<!-- 18 -->
+
+:::::: team-member-item
+<img src="images/team/zhangyouyi.jpg" alt="Youyi Zhang" class="member-photo"/>
+
+::: member-name
+Youyi Zhang(张友谊)
+:::
+
+::: member-position
+Postdoctoral Fellow
+:::
+
+::: member-email
+zhangyouyi\@westlake.edu.cn
+:::
+::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+<h2 class="category-title">
+
+Technical Staff
+
+</h2>
+
+::::::::::::::::::::::::::::::: team-grid
+<!-- 1 -->
+
+:::::: team-member-item
+<img src="images/team/Qiudanyang.jpg" alt="Qiudanyang" class="member-photo"/>
+
+::: member-name
+Danyang Qiu (邱丹阳)
+:::
+
+::: member-position
+Lab Manager
+:::
+
+::: member-email
+qiudanyang\@westlake.edu.cn
+:::
+::::::
+
+<!-- 2 -->
+
+:::::: team-member-item
+<img src="images/team/Hanyue.jpg" alt="Hanyue" class="member-photo"/>
+
+::: member-name
+Yue Han(韩月)
+:::
+
+::: member-position
+Research Assistant
+:::
+
+::: member-email
+hanyue09\@westlake.edu.cn
+:::
+::::::
+
+<!-- 3 -->
+
+:::::: team-member-item
+<img src="images/team/licong.jpg" alt="Licong" class="member-photo"/>
+
+::: member-name
+Cong Li(黎聪)
+:::
+
+::: member-position
+Research Assistant
+:::
+
+::: member-email
+licong79\@westlake.edu.cn
+:::
+::::::
+
+<!-- 4 -->
+
+:::::: team-member-item
+<img src="images/team/Liaoguangsheng.jpg" alt="Guangsheng liao" class="member-photo"/>
+
+::: member-name
+Guangsheng Liao(廖广生)
+:::
+
+::: member-position
+Research Assistant
+:::
+
+::: member-email
+liaoguangsheng\@westlake.edu.cn
+:::
+::::::
+
+<!-- -->
+
+:::::: team-member-item
+<img src="images/team/Liuhaoyu.jpg" alt="Haoyu Liu" class="member-photo"/>
+
+::: member-name
+Haoyu Liu(刘浩宇)
+:::
+
+::: member-position
+Research Assistant
+:::
+
+::: member-email
+liuhaoyu\@westlake.edu.cn
+:::
+::::::
+
+<!-- 5 -->
+
+:::::: team-member-item
+<img src="images/team/wangxiaoyan.jpg" alt="Xiaoyan Wang" class="member-photo"/>
+
+::: member-name
+Xiaoyan Wang(王笑颜)
+:::
+
+::: member-position
+Research Assistant
+:::
+
+::: member-email
+wangxiaoyan\@westlake.edu.cn
+:::
+::::::
+
+<!-- 6 -->
+
+:::::: team-member-item
+<img src="images/team/xiajun.jpg" alt="xiajun" class="member-photo"/>
+
+::: member-name
+Jun Xia(夏骏)
+:::
+
+::: member-position
+Research Assistant
+:::
+
+::: member-email
+xiajun69\@westlake.edu.cn
+:::
+::::::
+
+<!-- 7 -->
+
+:::::: team-member-item
+<img src="images/team/Zhuxueshuo.jpg" alt="Zhuxueshuo" class="member-photo"/>
+
+::: member-name
+Xueshuo Zhu(祝雪硕)
+:::
+
+::: member-position
+Research Assistant
+:::
+
+::: member-email
+zhuxueshuo\@westlake.edu.cn
+:::
+::::::
+:::::::::::::::::::::::::::::::
+
+<!-- 添加更多团队成员 - 每个都是独立的块 -->
+
+<h2 class="category-title">
+
+Graduate Students
+
+</h2>
+
+::::::::::::::::::::::::::::::::::::::: team-grid
+<!-- 1 -->
+
+:::::: team-member-item
+<img src="images/team/Liangjunhua.jpg" alt="JunhuaLiang" class="member-photo"/>
+
+::: member-name
+Junhua Liang (梁俊华)
+:::
+
+::: member-position
+Graduate Student
+:::
+
+::: member-email
+liangjunhua\@westlake.edu.cn
+:::
+::::::
+
+<!-- 2 -->
+
+:::::: team-member-item
+<img src="images/team/Wangaodi.jpg" alt="Wangaodi" class="member-photo"/>
+
+::: member-name
+Aodi Wang(王奥迪)
+:::
+
+::: member-position
+Graduate Student
+:::
+
+::: member-email
+wangaodi\@westlake.edu.cn
+:::
+::::::
+
+<!-- 3 -->
+
+:::::: team-member-item
+<img src="images/team/Xiaxinxin.jpg" alt="xiaxinxin" class="member-photo"/>
+
+::: member-name
+Xinxin Xia(夏欣欣)
+:::
+
+::: member-position
+Graduate Student
+:::
+
+::: member-email
+xiaxinxin\@westlake.edu.cn
+:::
+::::::
+
+<!-- 4 -->
+
+:::::: team-member-item
+<img src="images/team/Yangmanyi.jpg" alt="manyi Yang" class="member-photo"/>
+
+::: member-name
+Manyi Yang(杨曼一)
+:::
+
+::: member-position
+Graduate Student
+:::
+
+::: member-email
+yangmanyi\@westlake.edu.cn
+:::
+::::::
+
+<!-- 5 -->
+
+:::::: team-member-item
+<img src="images/team/zhangshiwen.jpg" alt="zhangshiwen" class="member-photo"/>
+
+::: member-name
+Shiwen zhang(张世文)
+:::
+
+::: member-position
+Graduate Student
+:::
+
+::: member-email
+zhangshiwen\@westlake.edu.cn
+:::
+::::::
+
+<!-- 6 -->
+
+:::::: team-member-item
+<img src="images/team/Dongliming.jpg" alt="liming dong" class="member-photo"/>
+
+::: member-name
+Liming Dong(董力铭)
+:::
+
+::: member-position
+Graduate Student
+:::
+
+::: member-email
+dongliming\@westlake.edu.cn
+:::
+::::::
+
+<!-- 7 -->
+
+:::::: team-member-item
+<img src="images/team/Fengjie.jpg" alt="Fengjie" class="member-photo"/>
+
+::: member-name
+Jie Feng(冯洁)
+:::
+
+::: member-position
+Graduate Student
+:::
+
+::: member-email
+fengjie\@westlake.edu.cn
+:::
+::::::
+
+<!-- 8 -->
+
+:::::: team-member-item
+<img src="images/team/Huyuhen.jpg" alt="Yuhen Hu" class="member-photo"/>
+
+::: member-name
+Yuhen Hu(胡宇痕)
+:::
+
+::: member-position
+Graduate Student
+:::
+
+::: member-email
+huyuhen\@westlake.edu.cn
+:::
+::::::
+
+<!-- 9 -->
+
+:::::: team-member-item
+<img src="images/team/Heshuai.jpg" alt="Heshuai" class="member-photo"/>
+
+::: member-name
+Shuai He(何帅)
+:::
+
+::: member-position
+Graduate Student
+:::
+
+::: member-email
+heshuai\@westlake.edu.cn
+:::
+::::::
+:::::::::::::::::::::::::::::::::::::::
+
+<h2 class="category-title">
+
+Visiting Student
+
+</h2>
+
+::::::::::::::: team-grid
+<!-- 1 -->
+
+<!-- 2 -->
+
+:::::: team-member-item
+<img src="images/team/houwendi.jpg" alt="Wendi Hou" class="member-photo"/>
+
+::: member-name
+Wendi Hou(侯文迪)
+:::
+
+::: member-position
+Visiting Student
+:::
+
+::: member-email
+houwendi\@westlake.edu.cn
+:::
+::::::
+
+<!-- 3 -->
+
+:::::: team-member-item
+<img src="images/team/yanyu.jpg" alt="Yan Yu" class="member-photo"/>
+
+::: member-name
+Yan Yu(闫宇)
+:::
+
+::: member-position
+Visiting Student
+:::
+
+::: member-email
+yanyu\@westlake.edu.cn
+:::
+::::::
+:::::::::::::::
+
+<h2 class="category-title">
+
+Alumni
+
+</h2>
+FengXue (薛峰), Research Assistant Professor (2024.11 \~ 2025.9)
+
+Yang Du (杜扬), Visiting Student&Visiting Scholar (2024.7 \~ 2025.8)
+
+Zhouwei Wang (王舟炜), Research Assistant (2023.12 \~ 2025.7)
+
+Jianing Zhu (朱佳凝), Visiting Student (2024.7 \~ 2025.6)
+
+</div>
+
+<footer class="site-footer">
+
+::: footer-content
+Li Lab \| Westlake © 2023 Hangzhou, Zhejiang Province, China
+:::
+
+</footer>
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

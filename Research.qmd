@@ -1,0 +1,53 @@
+---
+format: html
+---
+
+<h1 class="Research-title">
+
+Research
+
+</h1>
+
+Our laboratory focuses on the cellular and circuit mechanisms underlying aspects of motivated behaviors – including motivation, valence processing and learning – as well as cellular and circuit dysfunctions that may underlie mental disorders, including depression, anxiety disorders，autism, and drug addiction.More recently, Our team has embarked on studying the interactions between the brain and peripheral metabolism in the contexts of cancer progression and obesity. His research integratesin vitroandin vivoelectrophysiology, imaging, molecular, genetic, optogenetic, chemogenetic and RNA sequencing technologies to probe and manipulate the functions of specific neural circuits in the rodent brain, and to determine their roles in adaptive/maladaptive behavioral and metabolic responses.
+
+<h2 class="Research-title">
+
+1.Amygdala circuits and motivated behaviors
+
+</h2>
+
+·Discovered and elucidated the synaptic plasticity, the cell types, the coding properties and the projection circuits of central amygdala neurons essential for learning. Further delineated the cellular dysfunctions in central amygdala circuits that cause anxiety.
+
+·Identified valence-specific and hard-wired circuits in the basolateral amygdala. Further showed that learning maps the representations of sensory stimuli onto these hard-wired circuits to guide flexible behaviors during reward and aversive learning.
+
+<h2 class="Research-title">
+
+2.Cortico-basal ganglia-brainstem circuits and motivated behaviors
+
+</h2>
+
+·Discovered that enhanced excitatory synaptic transmission onto lateral habenula (LHb) neurons drives depression-like behaviors. Furtherdemonstrated that the inputs from the globus pallidus to the LHb (GPh®LHb) are critical for outcome evaluation, while the inputs from the ventral pallidum to the LHb (VP®LHb) regulates motivation during reward seeking and punishment avoidance.
+
+·Discoveredan unconventional striatal “direct pathway” originating fromTshz1neurons in the striosome, which represents punishment and drives negative reinforcement.
+
+·Discovered that anterior insular cortex projections to the brainstem nucleus tractus solitarii (aIC®NTS) regulate striatal dopamine release, thereby controlling motivational vigor.
+
+<h2 class="Research-title">
+
+3.Cellular and circuit mechanisms regulating feeding behavior and metabolism
+
+</h2>
+
+·Discovered that neurotensin neurons in the interstitial nucleus of the posterior limb of the anterior commissure (IPAC) control hedonic feeding, energy homeostasis and obesity.
+
+·Discovered that neurons in the brainstem area postrema mediate the function of circulating interleukin-6 (IL-6) to drive anorexia and body weight loss in cancer-associated cachexia.
+
+<img src="images/publication/3_2.png" alt="article" class="article-photo"/>
+
+<footer class="site-footer">
+
+::: footer-content
+Li Lab \| Westlake © 2023 Hangzhou, Zhejiang Province, China
+:::
+
+</footer>

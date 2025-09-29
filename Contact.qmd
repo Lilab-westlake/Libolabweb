@@ -1,0 +1,38 @@
+---
+format: html
+---
+
+::: contact-container
+<h2 class="contact-title">
+Address:
+</h2>
+
+Shilongshan ST #18, Xihu District, Hangzhou, Zhejiang Province, CN 中国浙江省杭州市西湖区云栖小镇石龙山街18号
+
+<h2 class="contact-title">
+Email:
+</h2>
+
+libo\@westlake.edu.cn
+
+<h2 class="contact-title">
+Opportunity:
+</h2>
+
+We are actively recruiting research associates, research assistants, postdocs and Ph.D. students. If interested, please send your CV to libo\@westlake.edu.cn
+:::
+
+<img src="images/contact/westlake.png" alt="article" class="contact-photo"/>
+
+Westlake University (Yunqi Campus)
+
+Room 3-325
+
+
+<footer class="site-footer">
+
+::: footer-content
+Li Lab \| Westlake © 2023 Hangzhou, Zhejiang Province, China
+:::
+
+</footer>

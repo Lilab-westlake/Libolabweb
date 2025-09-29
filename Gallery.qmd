@@ -1,0 +1,13 @@
+---
+format: html
+---
+
+<footer class="site-footer">
+
+::: footer-content
+        
+Li Lab | Westlake © 2023 Hangzhou, Zhejiang Province, China
+
+:::
+
+</footer>

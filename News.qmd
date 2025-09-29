@@ -1,0 +1,46 @@
+---
+format: html
+---
+
+<h1 class="News2-title">
+
+Lab News
+
+</h1>
+
+<h5 class="News-title">
+
+Li Lab 2025, assemble! AT Manjuelong <br> 2025-5-18, Photo by Yuhen
+</h5>
+
+:::::: News-member-item
+<img src="images/News/hezhao_2.jpg" alt="hezhao2" class="All-photo"/>
+
+Our lab group visited Hangzhou South Peak (南高峰) and Tiger Spring Park (虎跑公园) for hiking, and enjoyed dinner at Manjuelong (满觉陇).
+
+<h5 class="News-title">
+
+Li Lab 2025, Family photo 2025-3-4
+</h5>
+
+::::: News-member-item
+<img src="images/News/hezhao_1.jpg" alt="hezhao" class="All-photo"/>
+
+<h5 class="News-title">
+
+Li Lab 2024, assemble! AT Longwu(龙坞)<br> 2024-11-23, Photo by Yuhen
+</h5>
+
+:::: News-member-item
+<img src="images/News/hezhao_3.jpg" alt="hezhao" class="All-photo"/>
+
+<footer class="site-footer">
+
+::: footer-content
+Li Lab \| Westlake © 2023 Hangzhou, Zhejiang Province, China
+:::
+
+</footer>
+::::
+:::::
+::::::

@@ -1,0 +1,33 @@
+---
+format: html
+---
+
+<body class="home-page">
+
+:::: main-content
+::: hero-section
+<h2 class="hero-title">
+
+LI Lab
+
+</h2>
+
+<h3 class="hero-subtitle">
+
+“The most important thing is motivation” – Sydney Brenner
+
+</h3>
+
+<a href="Research.qmd" class="btn">Explore Us</a>
+
+<a class="photo-credit">Photo by Youyi</a>
+:::
+::::
+
+<footer class="site-footer">
+
+::: footer-content
+Li Lab \| Westlake © 2023 Hangzhou, Zhejiang Province, China
+:::
+
+</footer>

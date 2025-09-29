@@ -1,0 +1,56 @@
+---
+format: html
+---
+
+::: publication-list
+<h1 class="Publication-title">
+
+Publications
+
+</h1>
+:::
+
+::: publication-list
+
+Sun Q, Liu M, Guan W, Xiao X, Dong C, Bruchas MR, Zweifel LS, Li Y, Tian L, Li B. Dynorphin modulates reward-seeking actions through a pallido-amygdala cholinergic circuit. Neuron. 2025 Jun 4;113(11):1823-1840.e8. 
+
+Sun Q, van de Lisdonk D, Ferrer M, Gegenhuber B, Wu M, Park Y, Tuveson DA, Tollkuhn J, Janowitz T, Li B. Area postrema neurons mediate interleukin-6 function in cancer cachexia. Nat Commun. 2024 Jun 1;15(1):4682. 
+
+Tao Yang, Kai Yu, Xian Zhang, Xiong Xiao, Xiaoke Chen, Yu Fu, Bo Li([2023]{.year}) Plastic and stimulus-specific coding of salient events in the central amygdala. Nature, 616:510-519.
+
+Alessandro Furlan, Alberto Corona, Sara Boyle, Radhashree Sharma, Rachel Rubino, Jill Habel, Eva Carlotta Gablenz, Jacqueline Giovanniello, Semir Beyaz, Tobias Janowitz, Stephen David Shea, Bo Li(2022) Neurotensin neurons in the extended amygdala control dietary choice and energy homeostasis. Nature Neuroscience, 25:1470-1480.
+
+Hanfei Deng, Xiong Xiao, Tao Yang, Kimberly Ritola, Adam Hantman, Yulong Li, Z. Josh Huang, Bo Li(2021) A genetically defined insula-brainstem circuit selectively controls motivational vigor. Cell, 184:6344-6360.
+
+Xian Zhang, Wuqiang Guan, Tao Yang, Alessandro Furlan, Xiong Xiao, Kai Yu, Xu An, William Galbavy, Charu Ramakrishnan, Karl Deisseroth, Kimberly Ritola, Adam Hantman, Miao He, Z Josh Huang, Bo Li(2021) Genetically defined amygdala-striatal circuits for valence-specific behaviors. Nature Neuroscience, 24:1586-1600.
+
+Jacqueline Giovanniello, Sandra Ahrens, Kai Yu, Bo Li(2021) Sex-specific stress-related behavioral phenotypes and central amygdala dysfunction in a mouse model of 16p11.2 microdeletion. Biological Psychiatry: Global Open Science, 1(1):59-69.
+
+Jacqueline Giovanniello, Kai Yu, Alessandro Furlan, Gregory Thomas Nachtrab, Radhashree Sharma, Xiaoke Chen, Bo Li(2020) A central amygdala-globus pallidus circuit conveys unconditioned stimulus-related information and controls fear learning. The Journal of Neuroscience, 40(47): 9043-9054.
+
+Xiong Xiao, Hanfei Deng, Alessandro Furlan, Tao Yang, Xian Zhang, Ga-Ram Hwang, Jason Tucciarone, Priscilla Wu, Miao He, Ramesh Palaniswamy, Charu Ramakrishnan, Kimberly Ritola, Adam Hantman, Karl Deisseroth, Pavel Osten, Z. Josh Huang, Bo Li(2020) A genetically defined compartmentalized striatal direct pathway for negative reinforcement. Cell, 183: 211-227.
+
+Marcus Stephenson-Jones, Christian Bravo-Rivera, Sandra Ahrens, Alessandro Furlan, Xiong Xiao, Carolina Fernandes-Henriques, Bo Li(2020) Opposing contributions of GABAergic and glutamatergic ventral pallidal neurons to motivational behaviors. Neuron, 105: 921-933.
+
+Xian Zhang,Bo Li(2018) Population coding of valence in the basolateral amygdala.Nature Communications, 9:5195.doi: 10.1038/s41467-018-07679-9.
+
+Kai Yu, Sandra Ahrens, Xian Zhang, Hillary Schiff, Charu Ramakrishnan, Lief Fenno, Karl Deisseroth, Fei Zhao, Min-Hua Luo, Ling Gong, Miao He, Pengcheng Zhou, Liam Paninski,Bo Li(2017) Central amygdala controls learning in the lateral amygdala.Nature Neuroscience, 20:1680-1685.
+
+Marcus Stephenson-Jones, Kai Yu, Sandra Ahrens, Jason M. Tucciarone, Aile N. van Huijstee, Luis A. Mejia, Mario A. Penzo, Lung-Hao Tai, Linda Wilbrecht,Bo Li(2016) A basal ganglia circuit for evaluating action outcomes.Nature, 539:289-293.
+
+Sandra Ahrens, Santiago Jaramillo, Kai Yu, Sanchari Ghosh, Ga-Ram Hwang, Raehum Paik, Cary Lai, Miao He, Z. Josh Huang,Bo Li(2015) ErbB4 regulation of a thalamic reticular nucleus circuit for sensory selection.Nature Neuroscience, 18:104-111.
+
+Mario A. Penzo, Vincent Robert, Jason Tucciarone, Dimitri De Bundel, Minghui Wang, Linda Van Aelst, Martin Darvas, Luis F. Parada, Richard Palmiter, Miao He, Z. Josh Huang,Bo Li(2015) The paraventricular thalamus controls a central amygdala fear circuit.Nature, 519:455-459.
+
+Haohong Li, Mario A. Penzo, Hiroki Taniguchi, Charles D. Kopec, Z. Josh Huang,Bo Li(2013) Experience-dependent modification of a central amygdala fear circuit.Nature Neuroscience, 16:332-339.
+
+Bo Li, Joaquin Piriz, Martine Mirrione, Chihye Chung, Christophe Proulx, Daniela Schulz, Fritz Henn, Roberto Malinow\* (2011) Synaptic potentiation onto habenula neurons in the learned helplessness model of depression.Nature, 470: 535-539.
+:::
+
+<footer class="site-footer">
+
+::: footer-content
+Li Lab \| Westlake © 2023 Hangzhou, Zhejiang Province, China
+:::
+
+</footer>
