@@ -16,6 +16,6 @@ Team
 
 News
 
-Publication
+Publications
 
 Contact
